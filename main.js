@@ -194,7 +194,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Hero
             'hero.badge': '&#9201; Gesti\u00f3n de combustible en tiempo real',
             'hero.h1':    'Deja atr\u00e1s el <span class="hero-strike">caos</span>.<br>Gestiona combustible<br>como un <span class="hero-underline">profesional.</span>',
-            'hero.subtitle': 'FullTank conecta empresas industriales con sus proveedores de combustible en una plataforma centralizada. Pedidos, pagos, log\u00edstica y trazabilidad en tiempo real \u2014 sin llamadas, sin Excel, sin errores.',
+            'hero.subtitle': 'FuelBridge conecta empresas industriales con sus proveedores de combustible en una plataforma centralizada. Pedidos, pagos, log\u00edstica y trazabilidad en tiempo real \u2014 sin llamadas, sin Excel, sin errores.',
             'hero.check1':   'Sin tarjeta de cr\u00e9dito requerida',
             'hero.check2':   'Configuraci\u00f3n en menos de 10 minutos',
             'hero.check3':   'Soporte multiidioma incluido',
@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'mockup.month6':   'Abr',
 
             // Social proof
-            'social.label': 'Empresas que ya conf\u00edan en FullTank',
+            'social.label': 'Empresas que ya conf\u00edan en FuelBridge',
 
             // Problem
             'problem.label':    'El Problema',
@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'problem.p3.text':  'Horas perdidas en seguimiento manual. Ninguna visibilidad real del estado de la entrega.',
             'problem.p4.title': 'Errores que paralizan operaciones',
             'problem.p4.text':  'Un error en el pedido puede detener una obra entera. Las consecuencias econ\u00f3micas son devastadoras.',
-            'problem.cta':      'FullTank elimina todo esto \u2192',
+            'problem.cta':      'FuelBridge elimina todo esto \u2192',
 
             // How it works
             'how.label':        'Proceso',
@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Segments
             'segments.title':    'Una plataforma. Dos soluciones.',
-            'segments.subtitle': 'FullTank est\u00e1 dise\u00f1ado desde cero para las dos partes del proceso.',
+            'segments.subtitle': 'FuelBridge est\u00e1 dise\u00f1ado desde cero para las dos partes del proceso.',
             'segments.req.badge': 'Empresas Solicitantes',
             'segments.req.role':  '"El Operador Cr\u00edtico"',
             'segments.req.quote': '"Necesito saber exactamente d\u00f3nde est\u00e1 mi pedido sin tener que llamar todo el d\u00eda."',
@@ -302,36 +302,36 @@ document.addEventListener('DOMContentLoaded', () => {
             // About
             'about.label':        'Nuestra Startup',
             'about.title':        '\u00bfQui\u00e9nes somos?',
-            'about.badge':        '\u00ab Startup PrimeFuel \u00b7 Lima, Per\u00fa',
-            'about.description':  'Prime Fuel es un startup innovador dedicado a la gesti\u00f3n de la compraventa de combustible entre empresas solicitantes y proveedores. Somos el equipo de PrimeFuel, y nuestra propuesta se centra en la digitalizaci\u00f3n de un sector tradicionalmente dependiente de procesos manuales, brindando una soluci\u00f3n tecnol\u00f3gica que garantiza eficiencia, transparencia y un control m\u00e1s riguroso de las operaciones.',
+            'about.badge':        '\u00ab Startup HaloFuel \u00b7 Lima, Per\u00fa',
+            'about.description':  'HaloFuel es un startup innovador dedicado a la gesti\u00f3n de la compraventa de combustible entre empresas solicitantes y proveedores. Somos el equipo de HaloFuel, y nuestra propuesta se centra en la digitalizaci\u00f3n de un sector tradicionalmente dependiente de procesos manuales, brindando una soluci\u00f3n tecnol\u00f3gica que garantiza eficiencia, transparencia y un control m\u00e1s riguroso de las operaciones.',
             'about.mission.title':'Misi\u00f3n',
             'about.mission.text': 'Desarrollar soluciones tecnol\u00f3gicas avanzadas que transformen el mercado de combustible, eliminando los medios informales y reduciendo el margen de error, mediante una plataforma web intuitiva y accesible.',
             'about.vision.title': 'Visi\u00f3n',
             'about.vision.text':  'Posicionarnos como l\u00edderes en la digitalizaci\u00f3n del sector energ\u00e9tico, ofreciendo a las empresas una herramienta que facilite una gesti\u00f3n m\u00e1s eficiente, segura y sostenible, contribuyendo al progreso tecnol\u00f3gico y a la mejora de la competitividad del sector.',
-            'about.stat1':        'Miembros fundadores de PrimeFuel',
+            'about.stat1':        'Miembros fundadores de HaloFuel',
             'about.stat2':        'Empresas en lista de espera',
             'about.stat3':        'Plataforma para todo el flujo de combustible',
-            'about.upc':          '\u00bb Equipo PrimeFuel',
+            'about.upc':          '\u00bb Equipo HaloFuel',
 
             // Team
             'team.video':    'Video sobre el equipo',
             'team.label':    'El Equipo',
-            'team.title':    'Conoce a quienes hacen posible FullTank',
-            'team.subtitle': 'Somos 5 profesionales de Ingenier\u00eda de Software, parte del equipo de PrimeFuel, comprometidos con digitalizar el sector energ\u00e9tico.',
+            'team.title':    'Conoce a quienes hacen posible FuelBridge',
+            'team.subtitle': 'Somos 5 profesionales de Ingenier\u00eda de Software, parte del equipo de HaloFuel, comprometidos con digitalizar el sector energ\u00e9tico.',
             'team.career':   'Ing. de Software',
             'team.m1.desc':  'Profesional con pasi\u00f3n por la ciberseguridad e IA. Su fortaleza es liderar equipos eficazmente. Perseverante y dedicado, siempre listo para entregar proyectos exitosos.',
             'team.m2.desc':  'Colaborativo y adaptable. Disfruta aportar ideas y tiene s\u00f3lida base en C++ y Python, siempre buscando soluciones eficientes y simples.',
             'team.m3.desc':  'Profesional curiosa con experiencia en gesti\u00f3n de proyectos y metodolog\u00edas \u00e1giles. Enfocada en desarrollo web y an\u00e1lisis de datos.',
             'team.m4.desc':  'Enfocado en el desarrollo de soluciones tecnol\u00f3gicas innovadoras. Conocimientos en Python y C++, comprometido con la calidad del software.',
-            'team.m5.desc':  'Ingeniero de Software, parte del equipo de PrimeFuel, con habilidades en desarrollo y dise\u00f1o de sistemas. Comprometido con la innovaci\u00f3n continua.',
+            'team.m5.desc':  'Ingeniero de Software, parte del equipo de HaloFuel, con habilidades en desarrollo y dise\u00f1o de sistemas. Comprometido con la innovaci\u00f3n continua.',
 
             // Testimonials
             'testimonials.label':  'Testimonios',
-            'testimonials.title':  'Lo que dicen quienes ya usan FullTank',
-            'testimonials.t1.text': '"Antes perd\u00edamos horas coordinando pedidos por WhatsApp y Excel. Con FullTank, todo el equipo sabe el estado de cada pedido en tiempo real. Fue un cambio radical en nuestra operaci\u00f3n."',
+            'testimonials.title':  'Lo que dicen quienes ya usan FuelBridge',
+            'testimonials.t1.text': '"Antes perd\u00edamos horas coordinando pedidos por WhatsApp y Excel. Con FuelBridge, todo el equipo sabe el estado de cada pedido en tiempo real. Fue un cambio radical en nuestra operaci\u00f3n."',
             'testimonials.t1.name': 'Carlos R.',
             'testimonials.t1.role': 'Encargado Log\u00edstico \u00b7 MineraCorp Per\u00fa',
-            'testimonials.t2.text': '"Manejamos m\u00e1s de 40,000 galones mensuales. FullTank nos permite validar pedidos y coordinar despachos sin saturar al equipo. Lo que antes tomaba horas, ahora toma minutos."',
+            'testimonials.t2.text': '"Manejamos m\u00e1s de 40,000 galones mensuales. FuelBridge nos permite validar pedidos y coordinar despachos sin saturar al equipo. Lo que antes tomaba horas, ahora toma minutos."',
             'testimonials.t2.name': 'Andrea L.',
             'testimonials.t2.role': 'Gerenta de Ventas \u00b7 DistribFuel SAC',
             'testimonials.t3.text': '"La trazabilidad en tiempo real cambi\u00f3 c\u00f3mo tomamos decisiones. Ya no dependemos de llamadas para saber si el combustible llega a tiempo. Eso vale oro en obras de construcci\u00f3n."',
@@ -381,22 +381,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // FAQ
             'faq.title': 'Preguntas frecuentes',
-            'faq.q1': '\u00bfNecesito instalar algo para usar FullTank?',
+            'faq.q1': '\u00bfNecesito instalar algo para usar FuelBridge?',
             'faq.a1': 'No. Es 100% web. Funciona desde cualquier navegador moderno en computadora, tablet o celular. Sin instalaciones, sin actualizaciones manuales.',
             'faq.q2': '\u00bfC\u00f3mo se gestionan los pagos dentro de la plataforma?',
-            'faq.a2': 'El solicitante sube el comprobante de dep\u00f3sito bancario directamente en la plataforma. El proveedor lo valida y aprueba el pedido. FullTank no procesa pagos directamente \u2014 act\u00faa como gestor documental del proceso.',
+            'faq.a2': 'El solicitante sube el comprobante de dep\u00f3sito bancario directamente en la plataforma. El proveedor lo valida y aprueba el pedido. FuelBridge no procesa pagos directamente \u2014 act\u00faa como gestor documental del proceso.',
             'faq.q3': '\u00bfPuedo tener varios usuarios en mi empresa?',
             'faq.a3': 'S\u00ed. El plan Starter incluye 1 usuario, el plan Pro hasta 5 y el plan Enterprise tiene usuarios ilimitados con roles y permisos diferenciados por funci\u00f3n.',
             'faq.q4': '\u00bfMis datos est\u00e1n protegidos?',
             'faq.a4': 'S\u00ed. Usamos autenticaci\u00f3n JWT, cifrado SSL en tr\u00e1nsito y backups diarios autom\u00e1ticos. Cumplimos con est\u00e1ndares de seguridad para datos empresariales sensibles.',
             'faq.q5': '\u00bfSe integra con mi sistema ERP actual?',
             'faq.a5': 'El plan Enterprise incluye integraci\u00f3n v\u00eda API REST documentada con SAP, Oracle y otros sistemas ERP. Nuestro equipo de ingenier\u00eda te acompa\u00f1a en el proceso.',
-            'faq.q6': '\u00bfEn qu\u00e9 idiomas est\u00e1 disponible FullTank?',
+            'faq.q6': '\u00bfEn qu\u00e9 idiomas est\u00e1 disponible FuelBridge?',
             'faq.a6': 'Actualmente en espa\u00f1ol e ingl\u00e9s. Puedes cambiar el idioma desde cualquier pantalla con el selector en el navbar.',
 
             // CTA
             'cta.title':    '\u00bfListo para decirle adi\u00f3s<br>al caos del combustible?',
-            'cta.subtitle': '\u00danete a m\u00e1s de 200 empresas que ya gestionan sus pedidos de combustible con FullTank. Sin contratos. Sin complicaciones.',
+            'cta.subtitle': '\u00danete a m\u00e1s de 200 empresas que ya gestionan sus pedidos de combustible con FuelBridge. Sin contratos. Sin complicaciones.',
             'cta.btn':      'Empezar ahora \u2192',
             'cta.micro1':   'Sin tarjeta de cr\u00e9dito',
             'cta.micro2':   'Cancela en cualquier momento',
@@ -410,7 +410,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'footer.col1.li3':  'Planes y precios',
             'footer.col1.li4':  'Solicitar demo',
             'footer.col2.title':'Empresa',
-            'footer.col2.li1':  'Sobre PrimeFuel',
+            'footer.col2.li1':  'Sobre HaloFuel',
             'footer.col2.li2':  'Equipo',
             'footer.col2.li3':  'Blog',
             'footer.col2.li4':  'Carreras',
@@ -421,7 +421,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'footer.col3.li3':  'T\u00e9rminos de servicio',
             'footer.col3.li4':  'Estado del sistema',
             'footer.col3.li5':  'Seguridad',
-            'footer.copy':      '\u00a9 2026 PrimeFuel. Todos los derechos reservados.',
+            'footer.copy':      '\u00a9 2026 HaloFuel. Todos los derechos reservados.',
             'footer.made':      'Hecho en Lima, Per\u00fa',
 
             // Contact form
@@ -453,7 +453,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Hero
             'hero.badge': '&#9201; Real-time fuel management',
             'hero.h1':    'Leave the <span class="hero-strike">chaos</span> behind.<br>Manage your fuel<br>like a <span class="hero-underline">professional.</span>',
-            'hero.subtitle': 'FullTank connects industrial companies with their fuel suppliers on a centralized platform. Orders, payments, logistics, and real-time traceability \u2014 no calls, no spreadsheets, no errors.',
+            'hero.subtitle': 'FuelBridge connects industrial companies with their fuel suppliers on a centralized platform. Orders, payments, logistics, and real-time traceability \u2014 no calls, no spreadsheets, no errors.',
             'hero.check1':   'No credit card required',
             'hero.check2':   'Setup in less than 10 minutes',
             'hero.check3':   'Multi-language support included',
@@ -481,7 +481,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'mockup.month6':   'Apr',
 
             // Social proof
-            'social.label': 'Companies that already trust FullTank',
+            'social.label': 'Companies that already trust FuelBridge',
 
             // Problem
             'problem.label':    'The Problem',
@@ -495,7 +495,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'problem.p3.text':  'Hours lost on manual follow-up. No real visibility into delivery status.',
             'problem.p4.title': 'Errors that halt operations',
             'problem.p4.text':  'A mistake in an order can shut down an entire project. The financial consequences are devastating.',
-            'problem.cta':      'FullTank eliminates all of this \u2192',
+            'problem.cta':      'FuelBridge eliminates all of this \u2192',
 
             // How it works
             'how.label':        'Process',
@@ -529,7 +529,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Segments
             'segments.title':    'One platform. Two solutions.',
-            'segments.subtitle': 'FullTank is designed from the ground up for both sides of the process.',
+            'segments.subtitle': 'FuelBridge is designed from the ground up for both sides of the process.',
             'segments.req.badge': 'Requesting Companies',
             'segments.req.role':  '"The Critical Operator"',
             'segments.req.quote': '"I need to know exactly where my order is without having to call all day."',
@@ -561,36 +561,36 @@ document.addEventListener('DOMContentLoaded', () => {
             // About
             'about.label':        'Our Startup',
             'about.title':        'Who are we?',
-            'about.badge':        '\u00ab PrimeFuel Startup \u00b7 Lima, Peru',
-            'about.description':  'Prime Fuel is an innovative startup dedicated to managing the buying and selling of fuel between requesting companies and suppliers. We are the PrimeFuel team, and our proposal focuses on digitalizing a sector traditionally dependent on manual processes, providing a technological solution that ensures efficiency, transparency, and more rigorous operational control.',
+            'about.badge':        '\u00ab HaloFuel Startup \u00b7 Lima, Peru',
+            'about.description':  'HaloFuel is an innovative startup dedicated to managing the buying and selling of fuel between requesting companies and suppliers. We are the HaloFuel team, and our proposal focuses on digitalizing a sector traditionally dependent on manual processes, providing a technological solution that ensures efficiency, transparency, and more rigorous operational control.',
             'about.mission.title':'Mission',
             'about.mission.text': 'To develop advanced technological solutions that transform the fuel market by eliminating informal channels and reducing the margin of error through an intuitive and accessible web platform.',
             'about.vision.title': 'Vision',
             'about.vision.text':  'To position ourselves as leaders in the digitalization of the energy sector, offering companies a tool that enables more efficient, secure, and sustainable management, contributing to technological progress and improving sector competitiveness.',
-            'about.stat1':        'Founding members of PrimeFuel',
+            'about.stat1':        'Founding members of HaloFuel',
             'about.stat2':        'Companies on the waiting list',
             'about.stat3':        'Platform for the complete fuel flow',
-            'about.upc':          '\u00bb PrimeFuel Team',
+            'about.upc':          '\u00bb HaloFuel Team',
 
             // Team
             'team.video':    'Video about the team',
             'team.label':    'The Team',
-            'team.title':    'Meet the people behind FullTank',
-            'team.subtitle': 'We are 5 Software Engineers, part of the PrimeFuel team, committed to digitalizing the energy sector.',
+            'team.title':    'Meet the people behind FuelBridge',
+            'team.subtitle': 'We are 5 Software Engineers, part of the HaloFuel team, committed to digitalizing the energy sector.',
             'team.career':   'Software Engineering',
             'team.m1.desc':  'Professional passionate about cybersecurity and AI. Their strength is leading teams effectively. Persevering and dedicated, always ready to deliver successful projects.',
             'team.m2.desc':  'Collaborative and adaptable. Enjoys contributing ideas and has a solid foundation in C++ and Python, always seeking efficient and simple solutions.',
             'team.m3.desc':  'Curious professional with experience in project management and agile methodologies. Focused on web development and data analysis.',
             'team.m4.desc':  'Focused on developing innovative technological solutions. Knowledge in Python and C++, committed to software quality.',
-            'team.m5.desc':  'Software Engineer, part of the PrimeFuel team, with skills in development and system design. Committed to continuous innovation.',
+            'team.m5.desc':  'Software Engineer, part of the HaloFuel team, with skills in development and system design. Committed to continuous innovation.',
 
             // Testimonials
             'testimonials.label':  'Testimonials',
-            'testimonials.title':  'What those who already use FullTank say',
-            'testimonials.t1.text': '"We used to lose hours coordinating orders via WhatsApp and Excel. With FullTank, the entire team knows the status of each order in real time. It was a radical change in our operation."',
+            'testimonials.title':  'What those who already use FuelBridge say',
+            'testimonials.t1.text': '"We used to lose hours coordinating orders via WhatsApp and Excel. With FuelBridge, the entire team knows the status of each order in real time. It was a radical change in our operation."',
             'testimonials.t1.name': 'Carlos R.',
             'testimonials.t1.role': 'Logistics Manager \u00b7 MineraCorp Peru',
-            'testimonials.t2.text': '"We handle more than 40,000 gallons monthly. FullTank lets us validate orders and coordinate dispatches without overwhelming the team. What used to take hours now takes minutes."',
+            'testimonials.t2.text': '"We handle more than 40,000 gallons monthly. FuelBridge lets us validate orders and coordinate dispatches without overwhelming the team. What used to take hours now takes minutes."',
             'testimonials.t2.name': 'Andrea L.',
             'testimonials.t2.role': 'Sales Manager \u00b7 DistribFuel SAC',
             'testimonials.t3.text': '"Real-time traceability changed how we make decisions. We no longer depend on calls to know if fuel arrives on time. That is worth its weight in gold on construction sites."',
@@ -640,22 +640,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // FAQ
             'faq.title': 'Frequently asked questions',
-            'faq.q1': 'Do I need to install anything to use FullTank?',
+            'faq.q1': 'Do I need to install anything to use FuelBridge?',
             'faq.a1': 'No. It is 100% web-based. It works from any modern browser on a computer, tablet, or phone. No installations, no manual updates.',
             'faq.q2': 'How are payments handled within the platform?',
-            'faq.a2': 'The requester uploads the bank deposit receipt directly on the platform. The supplier validates it and approves the order. FullTank does not process payments directly \u2014 it acts as a document manager for the process.',
+            'faq.a2': 'The requester uploads the bank deposit receipt directly on the platform. The supplier validates it and approves the order. FuelBridge does not process payments directly \u2014 it acts as a document manager for the process.',
             'faq.q3': 'Can I have multiple users in my company?',
             'faq.a3': 'Yes. The Starter plan includes 1 user, the Pro plan up to 5, and the Enterprise plan has unlimited users with differentiated roles and permissions.',
             'faq.q4': 'Is my data protected?',
             'faq.a4': 'Yes. We use JWT authentication, SSL encryption in transit, and automatic daily backups. We comply with security standards for sensitive business data.',
             'faq.q5': 'Does it integrate with my current ERP system?',
             'faq.a5': 'The Enterprise plan includes integration via documented REST API with SAP, Oracle, and other ERP systems. Our engineering team will guide you through the process.',
-            'faq.q6': 'What languages is FullTank available in?',
+            'faq.q6': 'What languages is FuelBridge available in?',
             'faq.a6': 'Currently in Spanish and English. You can change the language from any screen using the selector in the navbar.',
 
             // CTA
             'cta.title':    'Ready to say goodbye<br>to fuel management chaos?',
-            'cta.subtitle': 'Join more than 200 companies already managing their fuel orders with FullTank. No contracts. No complications.',
+            'cta.subtitle': 'Join more than 200 companies already managing their fuel orders with FuelBridge. No contracts. No complications.',
             'cta.btn':      'Start now \u2192',
             'cta.micro1':   'No credit card',
             'cta.micro2':   'Cancel anytime',
@@ -669,7 +669,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'footer.col1.li3':  'Plans and pricing',
             'footer.col1.li4':  'Request a demo',
             'footer.col2.title':'Company',
-            'footer.col2.li1':  'About PrimeFuel',
+            'footer.col2.li1':  'About HaloFuel',
             'footer.col2.li2':  'Team',
             'footer.col2.li3':  'Blog',
             'footer.col2.li4':  'Careers',
@@ -680,7 +680,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'footer.col3.li3':  'Terms of service',
             'footer.col3.li4':  'System status',
             'footer.col3.li5':  'Security',
-            'footer.copy':      '\u00a9 2026 PrimeFuel. All rights reserved.',
+            'footer.copy':      '\u00a9 2026 HaloFuel. All rights reserved.',
             'footer.made':      'Made in Lima, Peru',
 
             // Contact form
